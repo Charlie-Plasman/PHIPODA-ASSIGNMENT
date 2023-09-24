@@ -45,9 +45,9 @@ Before running the R script, ensure you have the following installed:
 
 ## Output
 
-- The processed dataset is cleaned for missing/inconsistent data, updated with WoRMS identifiers/valid names and aggregated sampling methods.
+- The processed dataset available is cleaned for missing/inconsistent data, updated with WoRMS identifiers/valid names and aggregated sampling methods.
 - Maps for amphipoda biodiversity data visualizations are also available in the repository.
-- Results are displayed in the R console, and you can customize further actions as needed.
+- More results can be displayed in the R console, and you can customize further actions as needed.
   
 
 ## Notes
