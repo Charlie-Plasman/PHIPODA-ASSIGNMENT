@@ -65,6 +65,6 @@ Charlie Plasman
 
 ## Contact
 
-For any questions or issues, please contact charlie.plasman@umb.be.
+For any questions or issues, please contact charlie.plasman@ulb.be.
 
 ---
