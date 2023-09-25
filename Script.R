@@ -221,6 +221,10 @@ duplicated_data <- sorted_data[all_duplicate_rows, ]
 data <- data %>%
   filter(!(data$id %in% duplicated_data$id))
 
+################################################################################  Processed data save
+# Save the processed data as a .csv file
+write.csv(data, "processed_data.csv", row.names = FALSE)
+
 ################################################################################  Visualization
 # Plot the updated basemap
 plot(basemap)
